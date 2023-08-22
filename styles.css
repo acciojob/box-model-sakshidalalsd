@@ -1,1 +1,19 @@
-/*  your css code here. If applicable */
+.abc{
+	background-color:grey;
+	height:200px;
+   width:600px;
+   display:flex;
+   justify-content:center;
+   align-items: center;
+    border-radius:30px;
+	border:4px solid black;
+  
+}
+.green{
+   height:150px;
+   width:150px;
+   background-color:black;
+   border-radius: 50%;
+   margin-inline: 5px;
+   
+ }
